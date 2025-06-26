@@ -20,6 +20,7 @@ import (
 type apiConfig struct {
 	DB *database.Queries
 }
+
 func unused() {
 
 }
